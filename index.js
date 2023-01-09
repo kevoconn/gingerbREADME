@@ -10,7 +10,7 @@ const questions = [
 
   { type: "input", message: "What does this application do?", name: "description" },
 
-  { type: "input", message: "How do I install this application?", name: "install" },
+  { type: "input", message: "How do I install this application?", name: "installation" },
 
   { type: "input", message: "How do I use this application?", name: "usage" },
 
@@ -23,7 +23,7 @@ const questions = [
 
   { type: "input", message: "How do I contribute to this application?", name: "contributing" },
 
-  { type: "input", message: "How do I test this application?", name: "testing" },
+  { type: "input", message: "How do I test this application?", name: "tests" },
 
   { type: "input", message: "What is your Github username?", name: "username" },
 

@@ -1,35 +1,36 @@
-# njnjienfc
-  
+# Project 9
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg">
 
    # Description 
-  dncodijnceio
+  creates a read me file
 
   # Table of Contents 
   * [Description](#description)
-  * [Installation](#install)
+  * [Installation](#installation)
   * [Usage](#usage)
-  
+  * [License](#license)
   * [Contributing](#contributing)
-  * [Tests](#testing)
+  * [Tests](#tests)
   * [Questions](#questions)
   
   # Installation 
-  undefined
+  download program on computer
   # Usage 
-  mcodcikdjed
-  
+  answer some questions
+  # License
+This project is licensed under the MIT license
   # Contributing 
-  dcdonc
+  ask me and I'll let you
   # Tests 
-  undefined
+  try it out
   # Questions 
   For further information:
  
   * GitHub:
-    * [https://github.com/ckdjcno](https://github.com/ckdjcno)
+    * [https://github.com/kevoconn](https://github.com/kevoconn)
  
   * Email:
-    * ckodcm
+    * kevin.oconnor@northwestern.edu
 
 
   
