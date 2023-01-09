@@ -19,6 +19,7 @@
   # Video
   https://watch.screencastify.com/v/892liHhkXKt3bTBrnoxN
   # Screenshot
+  "C:\Users\k_oco\code\gingerbREADME\utils\Screenshot (16).png"
   
   # Questions 
   For further information:
