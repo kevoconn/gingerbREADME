@@ -19,7 +19,8 @@
   # Video
   https://watch.screencastify.com/v/892liHhkXKt3bTBrnoxN
   # Screenshot
-  "C:\Users\k_oco\code\gingerbREADME\utils\Screenshot (16).png"
+  ![Screenshot (16)](https://user-images.githubusercontent.com/114611839/211387536-09557068-2fad-483f-9f80-765a71530d50.png)
+
   
   # Questions 
   For further information:
